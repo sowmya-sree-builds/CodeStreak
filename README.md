@@ -43,5 +43,5 @@ Have a challenge suggestion or want to discuss solutions? Feel free to open an i
 
 📩 Email: sowmyasreealla@gmail.com
 📸 Instagram: sweet_blink.4
-💼 LinkedIn: Sowmya Sree Alla
+💼 LinkedIn: [Sowmya Sree Alla](https://www.linkedin.com/in/sowmya-sree-alla/)
 
