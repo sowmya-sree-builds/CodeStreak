@@ -1,3 +1,4 @@
+
 """
 Problem Statement: Range Sum Query
 
@@ -49,3 +50,4 @@ for _ in range(T):
             print(range_sum(i, j))
     except ValueError:
         print("Invalid input: Please enter two valid integers")
+
