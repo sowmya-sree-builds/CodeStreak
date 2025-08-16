@@ -1,4 +1,4 @@
-# Day XX: Words with exactly 2 vowels
+# Day 29: Words with exactly 2 vowels
 
 def words_with_two_vowels(sentence):
     vowels = "aeiouAEIOU"
