@@ -9,4 +9,4 @@ def count_frequency(arr):
     for key in freq:
         print(f"{key} occurs {freq[key]} times")
 
-count_frequency([1, 2, 2, 3, 3, 3, 4])
+count_frequency([1, 2, 2, 3, 3, 3, 4, 4])
