@@ -16,6 +16,7 @@ for num in numbers:
             break
     if not found:
         unique.append(num)
+        
 
 # Step 2: Find the largest, second largest, and third largest manually
 first = second = third = -999999  # placeholder for very small values
