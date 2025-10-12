@@ -1,4 +1,4 @@
-# Day 40: Count Vowels and Consonants using ASCII values
+# Day 40: Count Vowels and Consonants using ASCII values.
 
 # Problem:
 # Write a program to count vowels and consonants in a string.
